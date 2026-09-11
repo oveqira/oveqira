@@ -1,0 +1,6 @@
+{
+  "name": "Oveqira — Brand & Design System",
+  "description": "Visual foundation, design tokens, typography, color system, and reusable UI components for Oveqira digital growth company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,68 @@
+import { Industry } from '../types';
+
+export const industriesData: Industry[] = [
+  {
+    id: '01',
+    slug: 'startups',
+    name: 'Startups',
+    description: 'Build a credible digital foundation that can evolve with your company.',
+    featured: true,
+    order: 1,
+  },
+  {
+    id: '02',
+    slug: 'healthcare',
+    name: 'Healthcare',
+    description: 'Create clear, trustworthy digital experiences for patients, professionals, and organizations.',
+    featured: true,
+    order: 2,
+  },
+  {
+    id: '03',
+    slug: 'education',
+    name: 'Education',
+    description: 'Make information, services, and learning experiences easier to discover and use.',
+    featured: true,
+    order: 3,
+  },
+  {
+    id: '04',
+    slug: 'professional-services',
+    name: 'Professional Services',
+    description: 'Turn expertise into a digital presence that builds trust and generates opportunities.',
+    featured: true,
+    order: 4,
+  },
+  {
+    id: '05',
+    slug: 'ecommerce',
+    name: 'E-commerce',
+    description: 'Create product experiences designed to make discovery and purchase simpler.',
+    featured: true,
+    order: 5,
+  },
+  {
+    id: '06',
+    slug: 'local-businesses',
+    name: 'Local Businesses',
+    description: 'Build a stronger digital presence that helps nearby customers find and choose you.',
+    featured: true,
+    order: 6,
+  },
+  {
+    id: '07',
+    slug: 'creative-businesses',
+    name: 'Creative Businesses',
+    description: 'Showcase your work and brand through a digital experience that feels unmistakably yours.',
+    featured: true,
+    order: 7,
+  },
+  {
+    id: '08',
+    slug: 'technology',
+    name: 'Technology',
+    description: 'Design and build digital experiences for products, platforms, and technology-driven businesses.',
+    featured: true,
+    order: 8,
+  },
+];
